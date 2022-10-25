@@ -1,2 +1,2 @@
-# Javascript_Assignment_1
+# Javascript_Assignments
 vanilla JS assignments
